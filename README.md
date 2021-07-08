@@ -5,6 +5,7 @@ Reto de "Data Science Fem" Analizando la relación entre la inversión en public
 
 # Solución al reto
 - [Inversion_Publicidad_Reg_lineal.ipynb](Inversion_Publicidad_Reg_lineal.ipynb)
+- [dataset en Kaggle](https://www.kaggle.com/ashydv/advertising-dataset)
 
 # Agradecimientos
 
